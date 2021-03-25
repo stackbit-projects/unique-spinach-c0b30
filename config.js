@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Kittika, // <title>
+  siteTitle: 'Rage KITTchen', // <title>
   manifestName: 'Grayscale',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: '/',
@@ -8,7 +8,7 @@ module.exports = {
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-grayscale/`, // This path is subpath of your hosting https://domain/portfolio
-  heading: 'kittika',
+  heading: '',
   subHeading: 'Full-time mediocre chef',
 
   // social
