@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Kittika's Rage K', // <title>
+  siteTitle: 'Kittika's Rage Kittchen', // <title>
   manifestName: 'Grayscale',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: '/',
