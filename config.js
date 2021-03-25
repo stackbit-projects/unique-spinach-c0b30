@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Kitt, // <title>
+  siteTitle: ', // <title>
   manifestName: 'Grayscale',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: '/',
